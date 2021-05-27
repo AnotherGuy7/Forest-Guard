@@ -1,2 +1,2 @@
 # Forest-Guard
-A MonoGame port of a game I made in school using PyGame
+A MonoGame port of a game I wrote before in PyGame.
